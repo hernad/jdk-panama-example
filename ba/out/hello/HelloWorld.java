@@ -1,3 +1,5 @@
+package ba.out.hello;
+
 import ba.out.hello.helloworld_lib;
 import java.foreign.Libraries;
 import java.foreign.Scope;
